@@ -1,0 +1,8 @@
+2019-02-26T06:57:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\WordPress\wp-includes\Requests\Transport\cURL.php on line 162
+
+2019-02-26T06:57:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\WordPress\wp-content\plugins\elementor\modules\library\documents\library-document.php on line 2
+
+2019-02-26T06:57:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\WordPress\wp-includes\Requests\Transport\cURL.php on line 162
+
+2019-02-26T06:57:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\WordPress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 145
+
